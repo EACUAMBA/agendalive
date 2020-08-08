@@ -1,0 +1,42 @@
+.mat-card-live{
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    border-radius: 4px 3px 6px / 2px 4px;
+    padding-top: 15px;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-bottom: 0%;
+    margin: 5px;
+    padding: 0.5%;
+    color: #000;
+    background-color: #f8f8f8;
+}
+.mat-card-title-live{
+    text-align: center;
+    padding: 5px 10px;
+    padding-bottom: 0 !important;
+    margin-bottom: 0;
+    min-height:70px;
+    /* background-color: #008080; */
+    border-radius: 2px;
+    border: 1px solid #c9c9c9;
+    margin-bottom: 10px;
+    color: black;
+    position: relative;
+}
+.card-title{
+    position: absolute;
+    bottom: 5px;
+    font-size: 1.0rem;
+    line-height: 15px;
+    width: 100%;
+    margin: 3px auto;
+}
+.mat-chip-date{
+    background-color: #696969;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #c9c9c9;
+}
+*:focus{
+    outline: none !important;
+}
