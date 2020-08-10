@@ -1,0 +1,9 @@
+.example-form{
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width{/* Defini a largura de cada mat formField que ser;a iserida na aplicação*/
+  width: 100%;
+}
