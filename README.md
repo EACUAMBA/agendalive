@@ -1,4 +1,6 @@
-# Agendalive
+Agendalive
+
+Sistema de gerenciamento de lives, feito usando Angular JS e Spring Boot Java, APIs RestFull, 
 
 # Edilson A. Cuamba - 10/08/2020 - Conhecendo o Angular
 
