@@ -1,3 +1,5 @@
+Projecto bseado nas aulas da prof. Micheli Brito, no seu Curso Angular 9 Agenda Live
+
 # Agendalive
 
 # Edilson A. Cuamba - 10/08/2020 - Conhecendo o Angular
